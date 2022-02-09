@@ -1,0 +1,12 @@
+# Online Python - IDE, Editor, Compiler, Interpreter
+a=int(input ("enter a:"))
+b=int(input ("enter b:"))
+if a>b:
+    print ("a is biggest number then b")
+else:
+    print ("b is biggest number then a")
+enter a:
+90
+enter b:
+100
+b is biggest number then a
